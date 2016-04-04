@@ -1,6 +1,6 @@
 ﻿# Grunt Snippet Pack for Visual Studio
 
-[![Build status](https://ci.appveyor.com/api/projects/status/hautkuty2q2s6227?svg=true)](https://ci.appveyor.com/project/madskristensen/gulpsnippetpack)
+[![Build status](https://ci.appveyor.com/api/projects/status/qhakc9p676556h0o?svg=true)](https://ci.appveyor.com/project/madskristensen/gruntsnippetpack)
 
 Download this extension from the
 [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/9e26d1f9-1baf-4983-8c25-f5f769998d4f)
