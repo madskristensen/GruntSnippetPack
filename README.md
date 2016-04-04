@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/qhakc9p676556h0o?svg=true)](https://ci.appveyor.com/project/madskristensen/gruntsnippetpack)
 
 Download this extension from the
-[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/9e26d1f9-1baf-4983-8c25-f5f769998d4f)
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/e88222de-b491-4d15-abf5-db4326200e78)
 or get the
 [nightly build](http://vsixgallery.com/extension/09fdacb9-6989-453c-9504-6dd52cb46313/).
 
