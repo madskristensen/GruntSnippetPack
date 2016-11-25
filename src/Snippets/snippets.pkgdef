@@ -1,3 +1,8 @@
 ﻿
+; VS 2012-2015
 [$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
-"Snippets"="$PackageFolder$\Grunt Snippet Pack"
+"Snippets"="$PackageFolder$\GruntSnippetPack"
+
+; VS 2017
+[$RootKey$\Languages\CodeExpansions\TypeScript\Paths]
+"Snippets"="$PackageFolder$\GruntSnippetPack"

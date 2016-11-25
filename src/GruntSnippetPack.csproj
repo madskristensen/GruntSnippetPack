@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <MinimumVisualStudioVersion>$(VisualStudioVersion)</MinimumVisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
@@ -54,37 +54,37 @@
       <Link>Resources\LICENSE</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-bower-task.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-bower-task.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-clean.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-clean.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-cssmin.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-cssmin.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-jshint.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-jshint.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-less.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-less.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-sass.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-sass.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-uglify.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-uglify.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-contrib-watch.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-contrib-watch.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-pkg.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-pkg.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt-typescript.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt-typescript.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Grunt Snippet Pack\grunt.snippet">
+    <Content Include="Snippets\GruntSnippetPack\grunt.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">
